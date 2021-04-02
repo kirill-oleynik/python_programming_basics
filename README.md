@@ -1,2 +1,2 @@
 # python_programming_basics
-Programming Basics with Python by Prometheus
+[Щснови программування мовою Python](https://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/course/)
